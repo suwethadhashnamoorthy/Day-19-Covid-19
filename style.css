@@ -1,0 +1,49 @@
+.search-bar {
+  align-items: center;
+  margin-left: 600px;
+  font-size: 19px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: bold;
+}
+
+body {
+  background-image: url(https://medlineplus.gov/images/COVID19_share.jpg);
+}
+
+button {
+  margin-left: 100px;
+  font-size: 15px;
+  /*font-weight: 700;*/
+  border-radius: 10px;
+  border-style: none;
+}
+
+button:hover {
+  cursor: pointer;
+  background-color: aquamarine;
+  border-style: none;
+}
+
+input {
+  font-size: 20px;
+  border-radius: 17px;
+  text-align: center;
+  background-color: transparent;
+  height: 30px;
+}
+
+.head {
+  margin-left: 650px;
+  font-family: Tahoma, Geneva, Verdana, sans-serif;
+  text-decoration: none;
+}
+
+h1 {
+  color: #ff9999;
+}
+
+span {
+  color: #3366ff;
+  font-family: sans-serif;
+  font-weight: bold;
+}
